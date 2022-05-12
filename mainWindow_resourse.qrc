@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="mainWindowPrefix">
+    <file>image/ig_logo-color.png</file>
+    <file>image/model_img.jpg</file>
+    <file>image/ig logo black.png</file>
+    <file>image/Ig logo.png</file>
+    <file>texture/instagram_background.jpg</file>
+  </qresource>
+</RCC>
